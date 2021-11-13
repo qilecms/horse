@@ -1,5 +1,5 @@
-# horse
-Horse Programming language
+# Horse Programming language
+
 
 Horse language is an open source programming language,It is safe, efficient and fast,Easy to learn and get started
 
