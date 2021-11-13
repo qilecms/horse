@@ -1,4 +1,4 @@
-# Horse Programming language
+# The Horse Programming language
 
 
 Horse language is an open source programming language. It is safe, efficient, fast, easy to learn and get started, so that developers all over the world can easily start!
